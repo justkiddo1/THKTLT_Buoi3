@@ -1,0 +1,10 @@
+Nguyen Van A;0123456789;2;1;Avengers;Phong 1;14:00;
+Tran Thi B;0987654321;1;0;Spider-Man;Phong 2;16:00;
+Le Van C;0912345678;3;2;Batman;Phong 3;18:00;
+Pham Thi D;0976543210;2;2;Superman;Phong 4;20:00;
+Vu Van E;0901234567;1;1;Frozen;Phong 5;15:00;
+Hoang Thi F;0923456789;2;1;Inception;Phong 1;19:00;
+Nguyen Van G;0934567890;4;0;Jurassic Park;Phong 2;21:00; 
+Tran Van H;0956789012;1;1;Toy Story;Phong 3;16:00;
+Le Thi I;0945678901;0;2;Finding Nemo;Phong 4;14:30;
+Phan Van J;0967890123;3;1;Avatar;Phong 5;17:00;

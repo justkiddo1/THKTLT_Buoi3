@@ -1,0 +1,3 @@
+LopA 2
+LopB 3
+LopC 1
